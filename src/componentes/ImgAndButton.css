@@ -1,0 +1,19 @@
+.contenedorImagen{
+    display: flex;
+    width: 144px;
+    height: 100px;
+}
+
+.img{
+    height: fit-content;
+    width: fit-content;
+    border-top-right-radius: 5px;
+}
+
+.imgbutton{
+    margin-top: 5px;
+    margin-left: 5px;
+    rotate: 90deg;
+    height: 20px;
+    width: 20px;
+}

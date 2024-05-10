@@ -12,8 +12,10 @@ function App() {
   return (
     <>
       <div>
-        <ImgAndButton></ImgAndButton>
-        <ExcerciseDetails></ExcerciseDetails>
+        <div className="contenedorCard">
+          <ImgAndButton></ImgAndButton>
+          <ExcerciseDetails></ExcerciseDetails>
+        </div>
       </div>
     </>
   );
